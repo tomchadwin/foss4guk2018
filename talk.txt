@@ -1,0 +1,89 @@
+Owt fer nowt and tuppence change
+
+owt, n. something, anything
+nowt, n. nothing
+tuppence, n. two pence
+
+
+The "FOSS" in "FOSS4G" stands for "free and open-source software".
+
+Open-source advocates stress that "free" in "free and open-source software" 
+means "free" as in "free speech", not as in "free beer". These two meanings 
+are often unpicked into the two words "libre" (free speech) and "gratis" (free 
+beer). FOSS advocates concentrate on "libre".
+
+Open-source software is "libre" because there are no restrictions. You can do 
+what you want with it. It doesn't do what you need? Change it. The "open 
+source" of the software code makes this possible.
+
+Libre. Amazing.
+
+However, I suspect that this viewpoint betrays the great strength of the open-
+source community, and also one of its key weaknesses: it is driven largely by 
+developers. Developers love tweaking software to do something different. 
+Before FOSS became so prevalent, opportunities for this were much rarer. 
+Developers love "libre".
+
+But.
+
+"Free beer" is underrated.
+
+People like free beer. It's beer, and, which I think is the key point here, 
+it's free. It's owt fer nowt.
+
+Because FOSS is gratis:
+
+- anyone across the globe is allowed to use it
+- SMEs can use it without breaking the bank
+- public sector can put limited public funds to other projects
+- students can install it, knowing they won't lose the right to use it on 
+  graduation
+
+"Gratis" is what drives uptake of FOSS: NNPA migrated to QGIS, Newcastle City 
+Council ditto - driven by saving public money. We certainly were not driven 
+by "libre".
+
+Alas, though, beer is not, as a rule, free (with the possible exception of 
+tonight, in moderation)
+
+That so much is done without money is astonishing:
+
+- coding
+- testing
+- documentation
+- translation
+
+Contributors do what they do because they believe in the aims of FOSS, and 
+also because, to a greater or lesser extent, they enjoy it.
+
+But without money, many things would simply be impossible:
+
+- boring coding
+- boring testing
+- boring documentation
+- boring translation
+
+Alongside this, the best efforts cannot make some things free, such as 
+reliable hosting, and conferences such as this.
+
+So, to quote Bob Geldof:
+
+JUST GIVE US YER FOSSIN' MONEY
+
+- pay for a feature or a fix
+- donate
+- crowdfund
+- become a patron (Regina Obe on Patreon)
+- sponsor
+
+But back to gratis: you can still get owt fer nowt. But that's all ye get. If 
+you don't contribute (money, expertise, time), please don't complain or 
+demand. Complaints and demands are tuppence change. If you want to demand, pay 
+a developer.
+
+If you want owt fer nowt, ye divven' get tuppence change.
+
+Or in other words:
+
+Money for nothing, but no chicks for free
+
