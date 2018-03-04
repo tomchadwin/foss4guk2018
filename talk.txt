@@ -1,28 +1,28 @@
 Owt fer nowt and tuppence change
 
-owt, n. something, anything
-nowt, n. nothing
+owt, n. (colloq.) something, anything
+nowt, n. (colloq.) nothing
 tuppence, n. two pence
 
 
 The "FOSS" in "FOSS4G" stands for "free and open-source software".
 
 Open-source advocates stress that "free" in "free and open-source software" 
-means "free" as in "free speech", not as in "free beer". These two meanings 
-are often unpicked into the two words "libre" (free speech) and "gratis" (free 
-beer). FOSS advocates concentrate on "libre".
+means "free" as in "free speech", not "free" as in "free beer". These two 
+meanings are often disambiguated  into the two words "libre" (free speech) and 
+"gratis" (free beer). FOSS advocates concentrate on "libre".
 
 Open-source software is "libre" because there are no restrictions. You can do 
-what you want with it. It doesn't do what you need? Change it. The "open 
-source" of the software code makes this possible.
+what you want with it. Us it to make money. It doesn't do what you need? 
+Change it. The "open source" of the software code makes this possible.
 
 Libre. Amazing.
 
 However, I suspect that this viewpoint betrays the great strength of the open-
-source community, and also one of its key weaknesses: it is driven largely by 
-developers. Developers love tweaking software to do something different. 
-Before FOSS became so prevalent, opportunities for this were much rarer. 
-Developers love "libre".
+source community, but which is also one of its key weaknesses: it is driven 
+largely by developers. Developers love tweaking software to do something 
+different. Before FOSS became so prevalent, opportunities for this were much 
+rarer. Developers love "libre".
 
 But.
 
@@ -43,8 +43,8 @@ Because FOSS is gratis:
 Council ditto - driven by saving public money. We certainly were not driven 
 by "libre".
 
-Alas, though, beer is not, as a rule, free (with the possible exception of 
-tonight, in moderation)
+As a rule, though, beer is not free (with the possible exception, in 
+moderation, of tonight)
 
 That so much is done without money is astonishing:
 
@@ -76,12 +76,15 @@ JUST GIVE US YER FOSSIN' MONEY
 - become a patron (Regina Obe on Patreon)
 - sponsor
 
-But back to gratis: you can still get owt fer nowt. But that's all ye get. If 
-you don't contribute (money, expertise, time), please don't complain or 
-demand. Complaints and demands are tuppence change. If you want to demand, pay 
-a developer.
+This money drives quality and professional output. It pays for features via 
+grants, and for professional bugfixing. Give what you can.
 
-If you want owt fer nowt, ye divven' get tuppence change.
+But let's bring this back to gratis: you can still get owt fer nowt. But 
+that's all ye get. If you don't contribute (money, expertise, time), please 
+don't complain or demand. Complaints and demands are tuppence change. If you 
+want to demand or complain, pay a developer.
+
+But if you want owt fer nowt, ye divven' get tuppence change.
 
 Or in other words:
 
