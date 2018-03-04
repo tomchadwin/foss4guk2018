@@ -46,15 +46,13 @@ by "libre".
 As a rule, though, beer is not free (with the possible exception, in 
 moderation, of tonight)
 
-That so much is done without money is astonishing:
+That so much is done without money is astonishing, thanks to the enthusiasm 
+and commitment of contributors:
 
 - coding
 - testing
 - documentation
 - translation
-
-Contributors do what they do because they believe in the aims of FOSS, and 
-also because, to a greater or lesser extent, they enjoy it.
 
 But without money, many things would simply be impossible:
 
