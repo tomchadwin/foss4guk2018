@@ -7,22 +7,21 @@ tuppence, n. two pence
 
 The "FOSS" in "FOSS4G" stands for "free and open-source software".
 
-Open-source advocates stress that "free" in "free and open-source software" 
-means "free" as in "free speech", not "free" as in "free beer". These two 
-meanings are often disambiguated  into the two words "libre" (free speech) and 
-"gratis" (free beer). FOSS advocates concentrate on "libre".
+Open-source advocates stress that "free" in "FOSS" means "free" as in "free 
+speech", not "free" as in "free beer". The two meanings of "free" are often 
+made explicit by disambiguating "free" into the two words "libre" (free 
+speech) and "gratis" (free beer). Open-source advocates concentrate on "libre".
 
 Open-source software is "libre" because there are no restrictions. You can do 
-what you want with it. Us it to make money. It doesn't do what you need? 
+what you want with it. Use it to make money. It doesn't do what you need? 
 Change it. The "open source" of the software code makes this possible.
 
 Libre. Amazing.
 
 However, I suspect that this viewpoint betrays the great strength of the open-
 source community, but which is also one of its key weaknesses: it is driven 
-largely by developers. Developers love tweaking software to do something 
-different. Before FOSS became so prevalent, opportunities for this were much 
-rarer. Developers love "libre".
+largely by developers. Developers love to experiment and build on the work of 
+others. Developers love "libre".
 
 But.
 
