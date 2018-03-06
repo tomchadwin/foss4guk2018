@@ -4,6 +4,8 @@ owt, n. (colloq.) something, anything
 nowt, n. (colloq.) nothing
 tuppence, n. two pence
 
+"Something for nothing, and more besides"
+
 
 The "FOSS" in "FOSS4G" stands for "free and open-source software".
 
@@ -30,30 +32,16 @@ But.
 People like free beer. It's beer, and, which I think is the key point here, 
 it's free. It's owt fer nowt.
 
-Because FOSS is gratis:
-
-- anyone across the globe is allowed to use it
-- SMEs can use it without breaking the bank
-- public sector can put limited public funds to other projects
-- students can install it, knowing they won't lose the right to use it on 
-  graduation
-
 "Gratis" is what drives uptake of FOSS: NNPA migrated to QGIS, Newcastle City 
 Council ditto - driven by saving public money. We certainly were not driven 
-by "libre".
+by the fact that QGIS was "libre".
 
-As a rule, though, beer is not free (with the possible exception, in 
-moderation, of tonight)
+As a rule, though, beer is not free (with the possible exception of tonight, 
+in moderation of course).
 
 That so much is done without money is astonishing, thanks to the enthusiasm 
-and commitment of contributors:
-
-- coding
-- testing
-- documentation
-- translation
-
-But without money, many things would simply be impossible:
+and commitment of contributors. But without money, many things would simply be 
+impossible:
 
 - boring coding
 - boring testing
