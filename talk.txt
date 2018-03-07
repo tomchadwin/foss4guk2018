@@ -12,12 +12,12 @@ software".
 
 Open-source advocates often rightly stress that the "free" in "FOSS" means 
 "free" as in "free speech", not "free" as in "free beer". The two meanings of 
-"free" are often made clear by explicitly using the two words "libre" (free 
-speech) and "gratis" (free beer). Open-source advocates often rightly 
+"free" are often made clear by explicitly using the two words "libre" (free as 
+in speech) and "gratis" (free as in beer). Open-source advocates often rightly 
 concentrate on "libre".
 
 Open-source software is "libre" because there are no restrictions. You are 
-free to do what you want with it. Use it to make money. It doesn't do what you 
+free to do with it what you want. Use it to make money. It doesn't do what you 
 need? Change it. The "open source" of the software makes this possible.
 
 But here's the thing:
@@ -25,16 +25,17 @@ But here's the thing:
 "Free beer" is underrated.
 
 People like free beer. It's beer, and, which I think is the key point here, 
-it's free. Free beer is owt fer nowt.
+it's free. It's something for nothing. Owt fer nowt.
 
-"Gratis" is what drives uptake of FOSS: to take two examples from my neck of 
-the woods: NNPA migrated to QGIS, Newcastle City Council have done the same - 
-driven by saving public money. We were not driven by the fact that QGIS was 
-"libre", but because it was "gratis". Owt fer nowt.
+"Gratis" is what drives uptake of open-source software: to take two examples 
+from my neck of the woods, NNPA migrated to QGIS, Newcastle City Council have 
+done the same - driven by saving public money. We were not driven by the fact 
+that QGIS was "libre", but because it was "gratis". It's something for 
+nothing. Owt fer nowt.
 
-As a rule, though, free beer is not free - tonight's free beer has been paid 
-for by our fabulous sponsors (thank you), and by you, our fabulous delegates 
-(thank you).
+As a rule, though - alas! - free beer is not free: tonight's free beer has 
+been paid for by our fabulous sponsors (thank you), and by you, our fabulous 
+delegates (thank you).
 
 That so much is done without money is astonishing, thanks to the enthusiasm 
 and commitment of contributors. But without money, many things would simply be 
@@ -49,13 +50,16 @@ JUST GIVE US YER FOSSIN' MONEY
 You can do this in many ways:
 
 - donate
-- pay for a feature or a fix
-- contribute to a crowdfund (Lutra, developing QGIS 3D)
-- become a patron (Regina Obe on Patreon - maintaining, developing, 
-                   and documenting PostGIS)
+- pay for a feature or a fix (NNPA paid for an interface between QGIS and our 
+                              planning application software)
+- contribute to a crowdfund (this got us layer effects in QGIS - h/t Nyall 
+                             Dawson - essential in the techniques Charley and 
+                             Tom will talk about tomorrow)
+- become a patron (Regina Obe on Patreon - maintaining, developing, and 
+                   documenting PostGIS)
 - take out a support contract with one of the amazing companies who offer them 
-  (speak to some of them here tonight and tomorrow)
-- sponsor
+  *and who contribute back to the open-source projects* (NNPA do this)
+- sponsor (UK National Parks have jointly done this)
 
 This money drives quality and professional output. It pays for features via 
 grants, and for professional bugfixing. Give what you can, if you can.
