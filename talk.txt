@@ -12,7 +12,7 @@ software".
 
 Open-source advocates often rightly stress that the "free" in "FOSS" means 
 "free" as in "free speech", not "free" as in "free beer". The two meanings of 
-"free" are often made explicit by explicitly using the two words "libre" (free 
+"free" are often made clear by explicitly using the two words "libre" (free 
 speech) and "gratis" (free beer). Open-source advocates often rightly 
 concentrate on "libre".
 
@@ -20,18 +20,17 @@ Open-source software is "libre" because there are no restrictions. You are
 free to do what you want with it. Use it to make money. It doesn't do what you 
 need? Change it. The "open source" of the software makes this possible.
 
-Libre. Amazing.
-
 But here's the thing:
 
 "Free beer" is underrated.
 
 People like free beer. It's beer, and, which I think is the key point here, 
-it's free. It's owt fer nowt.
+it's free. Free beer is owt fer nowt.
 
 "Gratis" is what drives uptake of FOSS: NNPA migrated to QGIS, Newcastle City 
-Council ditto - driven by saving public money. We certainly were not driven 
-by the fact that QGIS was "libre".
+Council have done the same - driven by saving public money. We certainly were 
+not driven by the fact that QGIS was "libre", but because it was "gratis". Owt 
+fer nowt.
 
 As a rule, though, free beer is not free - tonight's free beer has been paid 
 for by our fabulous sponsors (thank you), and by you, our fabulous delegates 
@@ -47,11 +46,11 @@ So, to quote Bob Geldof:
 
 JUST GIVE US YER FOSSIN' MONEY
 
-There are many different ways to do this:
+You can do this in many ways:
 
 - donate
 - pay for a feature or a fix
-- contribute to a crowdfund
+- contribute to a crowdfund (Lutra, developing QGIS 3D)
 - become a patron (Regina Obe on Patreon - maintaining, developing, 
                    and documenting PostGIS)
 - take out a support contract with one of the amazing companies who offer them 
