@@ -27,10 +27,10 @@ But here's the thing:
 People like free beer. It's beer, and, which I think is the key point here, 
 it's free. Free beer is owt fer nowt.
 
-"Gratis" is what drives uptake of FOSS: NNPA migrated to QGIS, Newcastle City 
-Council have done the same - driven by saving public money. We certainly were 
-not driven by the fact that QGIS was "libre", but because it was "gratis". Owt 
-fer nowt.
+"Gratis" is what drives uptake of FOSS: to take two examples from my neck of 
+the woods: NNPA migrated to QGIS, Newcastle City Council have done the same - 
+driven by saving public money. We were not driven by the fact that QGIS was 
+"libre", but because it was "gratis". Owt fer nowt.
 
 As a rule, though, free beer is not free - tonight's free beer has been paid 
 for by our fabulous sponsors (thank you), and by you, our fabulous delegates 
@@ -38,7 +38,7 @@ for by our fabulous sponsors (thank you), and by you, our fabulous delegates
 
 That so much is done without money is astonishing, thanks to the enthusiasm 
 and commitment of contributors. But without money, many things would simply be 
-impossible, such as conferences such as this and, more importantly, the 
+impossible, such as conferences like this and, more importantly, the 
 enterprise-grade performance and stability we enjoy in FOSS4G software such as 
 PostGIS, GeoServer, and QGIS.
 
@@ -70,4 +70,4 @@ differently:
  - don't demand, discuss
  - don't expect, engage
 
-But if you want owt fer nowt, ye divven' get tuppence change.
+If you want owt fer nowt, ye divven' get tuppence change.
