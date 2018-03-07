@@ -2,30 +2,27 @@ Owt fer nowt and tuppence change
 
 owt, n. (colloq.) something, anything
 nowt, n. (colloq.) nothing
-tuppence, n. two pence
+tuppence, n. (arch.) two pence
 
 "Something for nothing, and more besides"
 
 
-The "FOSS" in "FOSS4G" stands for "free and open-source software".
+As we all know, the "FOSS" in "FOSS4G" stands for "free and open-source 
+software".
 
-Open-source advocates stress that "free" in "FOSS" means "free" as in "free 
-speech", not "free" as in "free beer". The two meanings of "free" are often 
-made explicit by disambiguating "free" into the two words "libre" (free 
-speech) and "gratis" (free beer). Open-source advocates concentrate on "libre".
+Open-source advocates often rightly stress that the "free" in "FOSS" means 
+"free" as in "free speech", not "free" as in "free beer". The two meanings of 
+"free" are often made explicit by explicitly using the two words "libre" (free 
+speech) and "gratis" (free beer). Open-source advocates often rightly 
+concentrate on "libre".
 
-Open-source software is "libre" because there are no restrictions. You can do 
-what you want with it. Use it to make money. It doesn't do what you need? 
-Change it. The "open source" of the software code makes this possible.
+Open-source software is "libre" because there are no restrictions. You are 
+free to do what you want with it. Use it to make money. It doesn't do what you 
+need? Change it. The "open source" of the software makes this possible.
 
 Libre. Amazing.
 
-However, I suspect that this viewpoint betrays the great strength of the open-
-source community, but which is also one of its key weaknesses: it is driven 
-largely by developers. Developers love to experiment and build on the work of 
-others. Developers love "libre".
-
-But.
+But here's the thing:
 
 "Free beer" is underrated.
 
@@ -36,37 +33,42 @@ it's free. It's owt fer nowt.
 Council ditto - driven by saving public money. We certainly were not driven 
 by the fact that QGIS was "libre".
 
-As a rule, though, beer is not free (with the possible exception of tonight, 
-in moderation of course).
+As a rule, though, free beer is not free - tonight's free beer has been paid 
+for by our fabulous sponsors (thank you), and by you, our fabulous delegates 
+(thank you).
 
 That so much is done without money is astonishing, thanks to the enthusiasm 
 and commitment of contributors. But without money, many things would simply be 
-impossible:
-
-- boring coding
-- boring testing
-- boring documentation
-- boring translation
-
-Alongside this, the best efforts cannot make some things free, such as 
-reliable hosting, and conferences such as this.
+impossible, such as conferences such as this and, more importantly, the 
+enterprise-grade performance and stability we enjoy in FOSS4G software such as 
+PostGIS, GeoServer, and QGIS.
 
 So, to quote Bob Geldof:
 
 JUST GIVE US YER FOSSIN' MONEY
 
-- pay for a feature or a fix
+There are many different ways to do this:
+
 - donate
-- crowdfund
-- become a patron (Regina Obe on Patreon)
+- pay for a feature or a fix
+- contribute to a crowdfund
+- become a patron (Regina Obe on Patreon - maintaining, developing, 
+                   and documenting PostGIS)
+- take out a support contract with one of the amazing companies who offer them 
+  (speak to some of them here tonight and tomorrow)
 - sponsor
 
 This money drives quality and professional output. It pays for features via 
-grants, and for professional bugfixing. Give what you can.
+grants, and for professional bugfixing. Give what you can, if you can.
 
-But let's bring this back to gratis: you can still get owt fer nowt. But 
-that's all ye get. If you don't contribute (money, expertise, time), please 
-don't complain or demand. Complaints and demands are tuppence change. If you 
-want to demand or complain, pay a developer.
+But you don't *have* to give anything. You can still get owt fer nowt. But if 
+you don't pay, owt fer nowt is all ye get. You don't get to complain or 
+demand, or expect. Complaints, demands, and expectations are tuppence change. 
+If you want to demand or complain, pay a developer. If not, approach things 
+differently:
+ 
+ - don't complain, contribute
+ - don't demand, discuss
+ - don't expect, engage
 
 But if you want owt fer nowt, ye divven' get tuppence change.
